@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: indico 2.0rc2\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-01-09 18:03+0100\n"
-"PO-Revision-Date: 2018-03-01 12:45+0300\n"
+"PO-Revision-Date: 2018-03-01 15:02+0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -655,7 +655,7 @@ msgstr ""
 #: indico/legacy/webinterface/tpls/RoomBookingRoomDetails.tpl:324 indico/modules/events/registration/templates/display/registration_summary.html:47
 #: indico/modules/events/registration/templates/management/registration_details.html:25
 msgid "Modify"
-msgstr ""
+msgstr "Düzenle"
 
 #: indico/legacy/webinterface/tpls/RoomBookingBlockingDetails.tpl:53 indico/legacy/webinterface/tpls/RoomBookingDetails.tpl:407
 #: indico/legacy/webinterface/tpls/RoomBookingRoomDetails.tpl:330 indico/modules/categories/templates/management/settings.html:19
@@ -10605,7 +10605,7 @@ msgstr ""
 
 #: indico/modules/events/registration/templates/display/registration_summary.html:12
 msgid "Your registration has been completed"
-msgstr ""
+msgstr "Kayıt işleminiz tamamlanmıştır"
 
 #: indico/modules/events/registration/templates/display/registration_summary.html:16
 msgid "Your registration is awaiting approval"

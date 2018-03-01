@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: indico 2.0rc2\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-01-09 18:03+0100\n"
-"PO-Revision-Date: 2018-03-01 12:45+0300\n"
+"PO-Revision-Date: 2018-03-01 15:02+0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -234,7 +234,7 @@ msgstr "İsim"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:864
 msgid "Affiliation"
-msgstr ""
+msgstr "Kurum"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:865
 msgid "Email"
@@ -1351,7 +1351,7 @@ msgstr ""
 
 #: indico/htdocs/js/indico/modules/registration/form/field.js:190
 msgid "The registration will not be associated with any Indico account."
-msgstr ""
+msgstr "Bu kayıt herhangi bir kullanıcı ile ilişkilendirilmemiş."
 
 #: indico/htdocs/js/indico/modules/registration/form/field.js:192
 msgid "The registration will be associated with your Indico account."
