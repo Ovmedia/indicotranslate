@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: indico 2.0rc2\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-01-09 18:03+0100\n"
-"PO-Revision-Date: 2018-03-01 10:27+0300\n"
+"PO-Revision-Date: 2018-03-01 11:44+0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -411,7 +411,7 @@ msgstr ""
 
 #: indico/htdocs/js/indico/Legacy/Util.js:350
 msgid "Field is mandatory"
-msgstr ""
+msgstr "Zorunlu alan"
 
 #: indico/htdocs/js/indico/Management/RoomBookingMapOfRooms.js:62
 msgid "Default on start-up"
@@ -768,7 +768,7 @@ msgstr ""
 
 #: indico/htdocs/js/indico/angular/directives.js:77
 msgid "Ok"
-msgstr ""
+msgstr "Tamam"
 
 #: indico/htdocs/js/indico/angular/directives.js:118
 msgid "The content of this dialog is currently unavailable."
@@ -1327,15 +1327,15 @@ msgstr ""
 
 #: indico/htdocs/js/indico/modules/registration/form/field.js:178
 msgid "There is already a registration with this email address."
-msgstr ""
+msgstr "Bu e-posta adresine bağlı bir kayıt mevcut."
 
 #: indico/htdocs/js/indico/modules/registration/form/field.js:180
 msgid "The user associated with this email address is already registered."
-msgstr ""
+msgstr "Bu e-posta adresi ile ilişkilendirilmiş bir kullanıcı zaten kayıtlı."
 
 #: indico/htdocs/js/indico/modules/registration/form/field.js:182
 msgid "There is no Indico user associated with this email address."
-msgstr ""
+msgstr "Bu mail adresi ile ilişkilendirilmiş bir "
 
 #: indico/htdocs/js/indico/modules/registration/form/field.js:184
 msgid "This email address is not associated with your Indico account."

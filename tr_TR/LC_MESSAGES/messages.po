@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: indico 2.0rc2\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-01-09 18:03+0100\n"
-"PO-Revision-Date: 2018-03-01 10:33+0300\n"
+"PO-Revision-Date: 2018-03-01 11:44+0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1557,7 +1557,7 @@ msgstr ""
 #: indico/modules/events/surveys/templates/management/survey_submission.html:46 indico/modules/oauth/templates/app_details.html:81
 #: indico/web/templates/forms/_form.html:156 indico/web/templates/layout/base.html:9
 msgid "Back"
-msgstr ""
+msgstr "Geri"
 
 #: indico/legacy/webinterface/tpls/RoomBookingRoomForm.tpl:107
 msgid "New Room"
@@ -2792,66 +2792,66 @@ msgstr ""
 #: indico/modules/auth/forms.py:46 indico/modules/auth/forms.py:51 indico/modules/auth/forms.py:57 indico/modules/auth/forms.py:106
 #: indico/modules/auth/forms.py:139
 msgid "Username"
-msgstr ""
+msgstr "Kullanıcı Adı"
 
 #: indico/modules/auth/forms.py:47 indico/modules/auth/forms.py:52 indico/modules/auth/forms.py:107
 msgid "Password"
-msgstr ""
+msgstr "Parola"
 
 #: indico/modules/auth/forms.py:53 indico/modules/auth/forms.py:60 indico/modules/auth/forms.py:108 indico/modules/auth/forms.py:141
 msgid "Confirm password"
-msgstr ""
+msgstr "Parolayı Doğrula"
 
 #: indico/modules/auth/forms.py:58
 msgid "Current password"
-msgstr ""
+msgstr "Mecvut Parola"
 
 #: indico/modules/auth/forms.py:59 indico/modules/auth/forms.py:140
 msgid "New password"
-msgstr ""
+msgstr "Yeni Parola"
 
 #: indico/modules/auth/forms.py:68
 msgid "Wrong current password"
-msgstr ""
+msgstr "Mevcut parola yanlış"
 
 #: indico/modules/auth/forms.py:79 indico/modules/auth/forms.py:84 indico/modules/auth/forms.py:97 indico/modules/auth/forms.py:105
 #: indico/modules/auth/forms.py:120 indico/modules/bootstrap/forms.py:32 indico/modules/core/forms.py:32 indico/modules/users/forms.py:112
 msgid "Email address"
-msgstr ""
+msgstr "E-posta adresi"
 
 #: indico/modules/auth/forms.py:80
 msgid "Choose the email address you want to verify."
-msgstr ""
+msgstr "Doğrulamak istediğiniz e-posta adresini seçiniz."
 
 #: indico/modules/auth/forms.py:88 indico/modules/events/persons/forms.py:56 indico/modules/events/registration/forms.py:178 indico/modules/users/forms.py:42
 #: indico/modules/users/forms.py:89 indico/modules/users/templates/registration_requests.html:12
 msgid "First name"
-msgstr ""
+msgstr "İsim"
 
 #: indico/modules/auth/forms.py:89 indico/modules/auth/forms.py:95 indico/modules/events/persons/forms.py:57 indico/modules/users/forms.py:43
 #: indico/modules/users/forms.py:88
 msgid "Family name"
-msgstr ""
+msgstr "Soyisim"
 
 #: indico/modules/auth/forms.py:90 indico/modules/auth/forms.py:96 indico/modules/cephalopod/templates/cephalopod.html:55
 #: indico/modules/events/management/templates/_event_person_list.html:16 indico/modules/events/persons/forms.py:58
 #: indico/modules/events/persons/templates/management/person_list.html:171 indico/modules/events/registration/forms.py:184 indico/modules/users/forms.py:44
 #: indico/modules/users/forms.py:91 indico/modules/users/templates/registration_requests.html:14
 msgid "Affiliation"
-msgstr ""
+msgstr "Kurum"
 
 #: indico/modules/auth/forms.py:94 indico/modules/designer/placeholders.py:226
 msgid "First Name"
-msgstr "Ad"
+msgstr "İsim"
 
 #: indico/modules/auth/forms.py:98 indico/modules/designer/placeholders.py:276 indico/modules/events/management/templates/_settings.html:112
 #: indico/modules/events/persons/forms.py:59 indico/modules/users/forms.py:45 indico/web/templates/forms/location_widget.html:71
 msgid "Address"
-msgstr ""
+msgstr "Adres"
 
 #: indico/modules/auth/forms.py:99 indico/modules/events/persons/forms.py:60 indico/modules/users/forms.py:46
 msgid "Phone number"
-msgstr ""
+msgstr "Telefon Numarası"
 
 #: indico/modules/auth/forms.py:100 indico/modules/auth/forms.py:109 indico/modules/events/abstracts/forms.py:233
 #: indico/modules/events/abstracts/forms.py:291 indico/modules/events/abstracts/forms.py:572
@@ -2863,7 +2863,7 @@ msgstr ""
 #: indico/modules/events/templates/reviews/forms.html:98 indico/modules/events/templates/reviews/timeline.html:198
 #: indico/modules/users/templates/registration_requests.html:15
 msgid "Comment"
-msgstr ""
+msgstr "Yorum"
 
 #: indico/modules/auth/forms.py:100 indico/modules/auth/forms.py:109
 msgid "You can provide additional information or a comment for the administrators who will review your registration."
@@ -2879,7 +2879,7 @@ msgstr ""
 
 #: indico/modules/auth/templates/_login_form.html:13
 msgid "Forgot my password"
-msgstr ""
+msgstr "Parolamı unuttum"
 
 #: indico/modules/auth/templates/accounts.html:10
 msgid "Local Account"
@@ -2895,7 +2895,7 @@ msgstr ""
 
 #: indico/modules/auth/templates/accounts.html:24
 msgid "Create account"
-msgstr ""
+msgstr "Hesap oluştur"
 
 #: indico/modules/auth/templates/accounts.html:34
 msgid "Modify credentials"
@@ -2912,7 +2912,7 @@ msgstr[1] ""
 #: indico/modules/events/layout/forms.py:142 indico/modules/events/logs/templates/logs.html:12
 #: indico/modules/events/management/templates/_base_person_list.html:19 indico/modules/events/persons/templates/management/person_list.html:126
 msgid "Show"
-msgstr ""
+msgstr "Göster"
 
 #: indico/modules/auth/templates/accounts.html:50 indico/modules/categories/templates/display/event_list.html:16
 #: indico/modules/events/notes/templates/_note.html:58
@@ -3008,7 +3008,7 @@ msgstr ""
 #: indico/modules/auth/templates/login_page.html:61
 #, python-format
 msgid "If you do not have an Indico account yet, you can <a href=\"%(url)s\">create one here</a>."
-msgstr ""
+msgstr "Eğer bir hesabınız yoksa, buradan <a href=\"%(url)s\">yeni bir tane</a> oluşturabilirsiniz."
 
 #: indico/modules/auth/templates/login_page.html:67
 #, python-format
@@ -3049,22 +3049,24 @@ msgstr ""
 
 #: indico/modules/auth/templates/reset_password.html:6
 msgid "Reset your Indico password"
-msgstr ""
+msgstr "Parolanızı Sıfırlayın"
 
 #: indico/modules/auth/templates/reset_password.html:15
 msgid ""
 "If you forgot your password you can reset it. Simply enter your email address and we'll send you an email containing with information on how to set a new "
 "password."
 msgstr ""
+"Eğer parolanızı unuttuysanız sıfırlayabilirsiniz. Basitçe e-posta adresinizi girin ardından size yeni parolanızı nasıl ayarlayabileceğinizin bilgilerini "
+"içeren bir e-posta yollacağız."
 
 #: indico/modules/auth/templates/reset_password.html:26
 msgid "Change my password"
-msgstr ""
+msgstr "Parolamı değiştir"
 
 #: indico/modules/auth/templates/emails/link_identity_verify_email.txt:4 indico/modules/auth/templates/emails/register_verify_email.txt:4
 #: indico/modules/users/templates/emails/verify_email.txt:4
 msgid "Verify your email"
-msgstr ""
+msgstr "E-postanızı doğrulayın"
 
 #: indico/modules/auth/templates/emails/link_identity_verify_email.txt:13
 #, python-format
@@ -3087,7 +3089,7 @@ msgstr ""
 
 #: indico/modules/auth/templates/emails/reset_password.txt:4
 msgid "Reset your password"
-msgstr ""
+msgstr "Parolanızı sıfırlayın"
 
 #: indico/modules/auth/templates/emails/reset_password.txt:13
 #, python-format
@@ -3098,7 +3100,7 @@ msgstr ""
 
 #: indico/modules/bootstrap/controllers.py:63
 msgid "Some fields are invalid. Please, correct them and submit the form again."
-msgstr ""
+msgstr "Bazı alanlar geçersiz. Lütfen, bu alanları düzeltip formu tekrar gönderiniz."
 
 #: indico/modules/bootstrap/templates/bootstrap.html:5 indico/modules/bootstrap/templates/bootstrap.html:16
 msgid "Hello there!"
@@ -3706,7 +3708,7 @@ msgstr ""
 
 #: indico/modules/categories/templates/display/base.html:13
 msgid "All events"
-msgstr ""
+msgstr "Tüm Etkinlikler"
 
 #: indico/modules/categories/templates/display/base.html:21 indico/modules/categories/templates/management/_events_list.html:89
 #: indico/modules/events/__init__.py:203 indico/modules/events/templates/forms/event_creation_form.html:15
@@ -7170,7 +7172,7 @@ msgstr "Ünvan:"
 
 #: indico/modules/events/contributions/templates/display/contribution_author.html:21
 msgid "Affiliation:"
-msgstr ""
+msgstr "Kurum:"
 
 #: indico/modules/events/contributions/templates/display/contribution_author.html:28
 msgid "Author in the following contribution"
