@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: indico 2.0rc2\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-01-09 18:03+0100\n"
-"PO-Revision-Date: 2018-02-28 17:13+0300\n"
+"PO-Revision-Date: 2018-03-01 10:27+0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -202,19 +202,19 @@ msgstr ""
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:861 indico/htdocs/js/indico/modules/timetable/timetable/Management.js:27
 msgid "Title"
-msgstr ""
+msgstr "Ünvan"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:861
 msgid "Mr."
-msgstr ""
+msgstr "Bay"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:861
 msgid "Mrs."
-msgstr ""
+msgstr "Bayan"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:861
 msgid "Ms."
-msgstr ""
+msgstr "Bayan"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:861
 msgid "Dr."
@@ -226,11 +226,11 @@ msgstr ""
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:862
 msgid "Family Name"
-msgstr ""
+msgstr "Soyisim"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:863
 msgid "First Name"
-msgstr ""
+msgstr "İsim"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:864
 msgid "Affiliation"
@@ -238,25 +238,25 @@ msgstr ""
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:865
 msgid "Email"
-msgstr ""
+msgstr "E-Posta"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:866
 msgid "Address"
-msgstr ""
+msgstr "Adres"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:867
 msgid "Telephone"
-msgstr ""
+msgstr "Telefon"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:876 indico/htdocs/js/indico/Management/RoomBookingMapOfRooms.js:71
 #: indico/htdocs/js/indico/widgets/multiple_items_widget.js:42
 msgid "Save"
-msgstr ""
+msgstr "Kaydet"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:878 indico/htdocs/js/indico/modules/designer.js:466
 #: indico/htdocs/js/indico/modules/designer.js:470 indico/legacy/webinterface/tpls/RoomBookingBlockingForm.tpl:114
 msgid "Warning"
-msgstr ""
+msgstr "Uyarı"
 
 #: indico/htdocs/js/indico/Core/Dialogs/Users.js:878
 msgid "It is not possible to grant submission rights to a participant without an email address. Please set an email address."

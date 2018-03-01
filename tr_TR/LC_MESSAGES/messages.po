@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: indico 2.0rc2\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-01-09 18:03+0100\n"
-"PO-Revision-Date: 2018-02-28 17:13+0300\n"
+"PO-Revision-Date: 2018-03-01 10:33+0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3278,7 +3278,7 @@ msgstr ""
 #: indico/modules/categories/forms.py:45 indico/modules/events/forms.py:66 indico/modules/events/management/forms.py:108
 #: indico/modules/events/management/templates/_settings.html:84 indico/modules/users/forms.py:51
 msgid "Timezone"
-msgstr ""
+msgstr "Saat dilimi"
 
 #: indico/modules/categories/forms.py:46
 msgid "Default timezone event lists will show up in. It will also be used as a default for new events."
@@ -4757,7 +4757,7 @@ msgstr ""
 
 #: indico/modules/events/__init__.py:221 indico/modules/events/registration/stats.py:309
 msgid "Overview"
-msgstr ""
+msgstr "Genel Bakış"
 
 #: indico/modules/events/__init__.py:222
 msgid "My Conference"
@@ -5725,7 +5725,7 @@ msgstr[1] ""
 
 #: indico/modules/events/abstracts/templates/display/_common.html:12 indico/modules/events/abstracts/templates/management/cfa_actions/open.html:4
 msgid "The call for abstracts is open"
-msgstr "Özet çağrısı açıldı."
+msgstr "Özet çağrısı açıldı"
 
 #: indico/modules/events/abstracts/templates/display/_common.html:14
 msgid "You have been authorized to submit abstracts"
@@ -5737,7 +5737,7 @@ msgstr "Değerlendirmek için bir özet gönderebilirsiniz."
 
 #: indico/modules/events/abstracts/templates/display/_common.html:21
 msgid "The call for abstracts is closed."
-msgstr "Özet çağrısı kapatıldı"
+msgstr "Özet çağrısı kapatıldı."
 
 #: indico/modules/events/abstracts/templates/display/_common.html:24
 msgid "You may still modify your abstracts."
@@ -7166,7 +7166,7 @@ msgstr ""
 
 #: indico/modules/events/contributions/templates/display/contribution_author.html:20
 msgid "Title:"
-msgstr ""
+msgstr "Ünvan:"
 
 #: indico/modules/events/contributions/templates/display/contribution_author.html:21
 msgid "Affiliation:"
@@ -7844,7 +7844,7 @@ msgstr ""
 #: indico/modules/events/timetable/__init__.py:37 indico/modules/events/timetable/__init__.py:47 indico/modules/events/timetable/clone.py:32
 #: indico/modules/events/timetable/templates/display.html:5 indico/modules/events/timetable/templates/management.html:5
 msgid "Timetable"
-msgstr ""
+msgstr "Program"
 
 #: indico/modules/events/layout/templates/layout_conference.html:31 indico/modules/events/layout/templates/layout_conference.html:44
 msgid "Preview"
@@ -8845,7 +8845,7 @@ msgstr "Makale gönderebilirsiniz."
 #: indico/modules/events/papers/templates/_contributions.html:69
 #, python-format
 msgid "Submit paper for &quot;%(title)s&quot;"
-msgstr "&quot;%(title)s&quot; için makale gönder"
+msgstr "&quot;%(title)s&quot; için makale gönder;"
 
 #: indico/modules/events/papers/templates/_contributions.html:74 indico/modules/events/papers/templates/display/_common.html:37
 #: indico/modules/events/papers/templates/display/_common.html:44
@@ -8998,7 +8998,7 @@ msgstr "Makale gönderebilirsiniz"
 
 #: indico/modules/events/papers/templates/display/_common.html:24
 msgid "The call for papers is closed."
-msgstr "Makale çağrısı kapatıldı"
+msgstr "Makale çağrısı kapatıldı."
 
 #: indico/modules/events/papers/templates/display/_common.html:32 indico/modules/events/papers/templates/display/select_contribution.html:16
 msgid "Submit new paper"
@@ -10366,11 +10366,11 @@ msgstr ""
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:65
 msgid "Reference:"
-msgstr "Referans"
+msgstr "Referans:"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:71
 msgid "Date:"
-msgstr "Tarih"
+msgstr "Tarih:"
 
 #: indico/modules/events/registration/templates/display/_registration_summary_blocks.html:91
 msgid "Invoice"
@@ -10417,7 +10417,7 @@ msgstr "'%(title)s' kayıt formu için bilet indirin"
 
 #: indico/modules/events/registration/templates/display/conference_home.html:42
 msgid "You are registered for this event, but there are more registration forms available."
-msgstr "Bu etkinlik için kayıt oldunuz, fakat daha fazla kayıt formu mevcut"
+msgstr "Bu etkinlik için kayıt oldunuz, fakat daha fazla kayıt formu mevcut."
 
 #: indico/modules/events/registration/templates/display/conference_home.html:47 indico/modules/events/registration/templates/display/event_header.html:13
 msgid "You are registered for this event."
@@ -10429,7 +10429,7 @@ msgstr ""
 
 #: indico/modules/events/registration/templates/display/conference_home.html:54
 msgid "Registration for this event is currently open."
-msgstr ""
+msgstr "Bu etkinliğe kayıt şu anda açıktır."
 
 #: indico/modules/events/registration/templates/display/conference_home.html:61 indico/modules/events/registration/templates/display/event_header.html:24
 #: indico/modules/events/registration/templates/management/regform.html:55 indico/modules/events/registration/templates/management/regform_reglist.html:189
@@ -10446,7 +10446,7 @@ msgstr ""
 
 #: indico/modules/events/registration/templates/display/conference_home.html:81
 msgid "Register now"
-msgstr ""
+msgstr "Kayıt ol"
 
 #: indico/modules/events/registration/templates/display/event_header.html:15
 msgid "This event is open to new participants."
@@ -12529,15 +12529,15 @@ msgstr ""
 
 #: indico/modules/events/templates/display/conference.html:13
 msgid "Date/Time"
-msgstr ""
+msgstr "Tarih/Saat"
 
 #: indico/modules/events/templates/display/conference.html:16
 msgid "Starts"
-msgstr ""
+msgstr "Başlangıç"
 
 #: indico/modules/events/templates/display/conference.html:22
 msgid "Ends"
-msgstr ""
+msgstr "Bitiş"
 
 #: indico/modules/events/templates/display/conference.html:66
 msgid "Log in to see their email address"
@@ -14547,15 +14547,15 @@ msgstr ""
 
 #: indico/modules/users/models/users.py:45
 msgid "Mr."
-msgstr "Bay"
+msgstr "Bay."
 
 #: indico/modules/users/models/users.py:45
 msgid "Ms."
-msgstr "Bayan"
+msgstr "Bayan."
 
 #: indico/modules/users/models/users.py:45
 msgid "Mrs."
-msgstr "Bayan"
+msgstr "Bayan."
 
 #: indico/modules/users/models/users.py:45
 msgid "Dr."
